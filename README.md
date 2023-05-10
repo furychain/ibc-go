@@ -59,7 +59,7 @@ The Inter-Blockchain Communication protocol (IBC) allows blockchains to talk to 
 
     3.2 [ICS 06 Solo Machine](https://github.com/cosmos/ibc-go/tree/main/modules/light-clients/06-solomachine)
     
-    3.3 [DIP 01 Furyint](https://github.com/xblackfury/ibc-go/tree/main-fury/modules/light-clients/01-furyint)
+    3.3 [DIP 01 Furyint](https://github.com/furychain/ibc-go/tree/main-fury/modules/light-clients/01-furyint)
 
 Note: The localhost client is currently non-functional. 
 
